@@ -1,0 +1,15 @@
+p, h1, h2 {
+    color: darkblue;
+}
+
+li {
+    color: blueviolet;
+}
+
+em, strong {
+    color: darkblue;
+}
+
+body {
+    background-color: thistle;
+}
